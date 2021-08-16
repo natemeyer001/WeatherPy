@@ -1,3 +1,3 @@
 # WeatherPy
 
-Weather data via API requests
+Vacation itinerary based on user weather restrictions displayed with google maps.
